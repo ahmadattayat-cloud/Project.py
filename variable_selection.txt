@@ -1,0 +1,20 @@
+Variable Selection for Financial Dataset
+
+I selected the following variables for my financial data analysis:
+
+1. Segment
+    Reason: To compare financial performance across different business segments.
+2. Product
+    Reason: To analyze sales and profit for different products.
+3. Units Sold
+    Reason: To understand how the number of units sold affects sales and profit.
+4. Sale Price
+    Reason: To examine the relationship between selling price and financial performance.
+5. Gross Sales
+    Reason: To analyze total sales before deductions.
+6. COGS
+    Reason: To understand the cost of goods sold and its relationship with profit.
+7. Profit
+    Reason: To analyze the overall profitability of the business.
+
+These variables were selected because they are directly related to sales, costs, and profitability in the financial dataset.
