@@ -1,0 +1,17 @@
+name: Financial Data Warehouse
+
+steps:
+  - name: Load Raw Data
+    description: Load Financial Sample data into Financial_Sample_Raw
+
+  - name: Transform Data
+    description: Clean and transform financial sales data
+
+  - name: Create Dimensions
+    description: Create country, segment and product dimensions
+
+  - name: Create Fact Table
+    description: Create Fact_Sales table
+
+  - name: Validate Data
+    description: Verify row counts and data types
